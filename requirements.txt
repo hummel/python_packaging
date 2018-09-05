@@ -1,0 +1,5 @@
+####### requirements.txt #######
+### Install the package requirements specified in setup.py
+### See discussion here for details:
+### https://packaging.python.org/discussions/install-requires-vs-requirements/
+-e .

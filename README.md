@@ -1,2 +1,3 @@
-# python_packaging
-Primer on how to package a python library using setuptools.
+# Python Packaging with setuptools
+###### A primer on going from writing simple scripts to building shareable python libraries.
+
