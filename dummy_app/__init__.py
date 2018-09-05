@@ -1,5 +1,5 @@
 """
-Dummy App for demostrating Jenkins Pipeling for Python Continuous Integration.
+Dummy package for demonstrating how to package up python code for distribution.
 """
-__version__ = "0.1.5.dev3"
-from .dummy_app import *
+__version__ = "0.0.0"
+from .my_pypackage import *

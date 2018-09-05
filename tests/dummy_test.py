@@ -1,5 +1,5 @@
 # dummy_test.py
-import dummy_app
+import my_pypackage
 
 def test_dummy():
-    assert dummy_app.main() == 42
+    assert my_pypackage.main() == 42

@@ -1,8 +1,8 @@
-# dummy_app.py
+# my_pypackage.py
 # Jacob Hummel
-# Created 2018-05-31
+# Created 2018-09-05
 """
-Dummy App for demostrating Jenkins Pipeling for Python Continuous Integration.
+Dummy package for demonstrating how to package up python code for distribution.
 """
 import os
 def main():
